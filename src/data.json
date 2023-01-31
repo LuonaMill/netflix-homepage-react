@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Test",
+    "images": ["img1", "img2", "img3"]
+  },
+
+  {
+    "category": "Test2",
+    "images": ["img4", "img5", "img6"]
+  }
+]
